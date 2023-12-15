@@ -45,6 +45,22 @@
     or use link: https://drive.google.com/drive/folders/1SviDT_2KiZ9m5NA3keqPlJ2pEvdXLOM7?usp=sharing
     ```
 
+- For Fast Style Transfer, run this code for single-image style transfer inference:
+
+  - ```bash
+    cd Final_NST
+    run Fast_Style_Transfer_for_Arbitrary_Styles.ipynb manually or//
+    jupyter nbconvert --to notebook --execute Fast_Style_Transfer_for_Arbitrary_Styles.ipynb
+    ```
+
+- For AlexNet, run this code for single-image style transfer inference:
+
+  - ```bash
+    cd Final_NST
+    run AlexNet1206.ipynb manually or//
+    jupyter nbconvert --to notebook --execute AlexNet1206.ipynb
+    ```
+
 - For model evaluation, run this code:
 
   - ```bash
@@ -54,7 +70,8 @@
     
     or use link: https://drive.google.com/drive/folders/1oUbQeC3QRc8qlVjvjI-0dg8c8GEYnhlP?usp=sharing
     ```
-
+    evaluator_Yuan.ipynb contains evaluation code blocks and results for some models, but evaluator.ipynb itself works for all.
+    
     
 
 MST: https://drive.google.com/drive/folders/1TV7auFaVm9YubetFQ_EizncI8-CLVOfL?usp=sharing
