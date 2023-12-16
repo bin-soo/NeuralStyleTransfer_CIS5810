@@ -2,13 +2,15 @@
 
 **Authors:** Group 38  - Binbin Chen, Jingqi Yao, Yuan Zhang
 
-**Final Report:** CS581_NST_FinalReport_Group38.pdf
+**Result Package:** https://drive.google.com/drive/folders/1ooBUJVS92jDuYri2bFwRnWsB0zl2wPgN?usp=sharing
 
-**Video Demo:** https://drive.google.com/drive/folders/1ooBUJVS92jDuYri2bFwRnWsB0zl2wPgN?usp=sharing
-- short version within 3 minutes: demo-short.mov
-- normal version with 4.5 minutes: demo-normal.mov
+- **Final Report:**
+  - CS581_NST_FinalReport_Group38.pdf
 
-**Result Link:** https://drive.google.com/drive/folders/1ooBUJVS92jDuYri2bFwRnWsB0zl2wPgN?usp=sharing
+- **Video Demo:**
+  - short version within 3 minutes: demo-short.mov
+  - normal version with 4.5 minutes: demo-normal.mov
+
 
 ## Main Contributions
 
