@@ -2,9 +2,11 @@
 
 **Authors:** Group 38  - Binbin Chen, Jingqi Yao, Yuan Zhang
 
-**Final report:**
+**Final Report:**
 
-**Video demo:**
+**Video Demo:**
+
+**Result Link:** https://drive.google.com/drive/folders/1ooBUJVS92jDuYri2bFwRnWsB0zl2wPgN?usp=sharing
 
 ## Main Contributions
 
