@@ -49,6 +49,14 @@
     or use link: https://drive.google.com/drive/folders/1SviDT_2KiZ9m5NA3keqPlJ2pEvdXLOM7?usp=sharing
     ```
 
+- For VGG19, run this code for single-image style transfer inference:
+
+  - ```bash
+    cd Final_NST
+    run VGG19.ipynb manually or//
+    jupyter nbconvert --to notebook --execute VGG19.ipynb
+    ```
+    
 - For Fast Style Transfer, run this code for single-image style transfer inference:
 
   - ```bash
@@ -64,7 +72,12 @@
     run AlexNet1206.ipynb manually or//
     jupyter nbconvert --to notebook --execute AlexNet1206.ipynb
     ```
+- For MST, run this code for single-image style transfer inference:
 
+  - ```bash
+    use link: [https://drive.google.com/drive/folders/12AO05ejrW7C1L5rjtNTET9_5HiDYTCFE?usp=sharing](https://drive.google.com/drive/folders/1TV7auFaVm9YubetFQ_EizncI8-CLVOfL?usp=sharing)
+    ```
+  
 - For model evaluation, run this code:
 
   - ```bash
@@ -76,6 +89,3 @@
     ```
     evaluator_Yuan.ipynb contains evaluation code blocks and results for some models, but evaluator.ipynb itself works for all.
     
-    
-
-MST: https://drive.google.com/drive/folders/1TV7auFaVm9YubetFQ_EizncI8-CLVOfL?usp=sharing
