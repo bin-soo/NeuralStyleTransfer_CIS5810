@@ -4,8 +4,10 @@
 
 **Result Package:** https://drive.google.com/drive/folders/1ooBUJVS92jDuYri2bFwRnWsB0zl2wPgN?usp=sharing
 
-- **Final Report:**
-  - CS581_NST_FinalReport_Group38.pdf
+- **Reports:**
+  - Final: CS581_NST_FinalReport_Group38.pdf
+  - Mid: CIS581_Proj_MidReport_Group38.pdf
+  - Proposal: CIS581_Proj_Proposal_Group38.pdf
 
 - **Video Demo:**
   - short version within 3 minutes: demo-short.mov
