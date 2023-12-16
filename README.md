@@ -4,7 +4,9 @@
 
 **Final Report:**
 
-**Video Demo:**
+**Video Demo:** https://drive.google.com/drive/folders/1ooBUJVS92jDuYri2bFwRnWsB0zl2wPgN?usp=sharing
+- short version within 3 minutes: demo-short.mov
+- normal version with 4.5 minutes: demo-normal.mov
 
 **Result Link:** https://drive.google.com/drive/folders/1ooBUJVS92jDuYri2bFwRnWsB0zl2wPgN?usp=sharing
 
