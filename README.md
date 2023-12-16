@@ -2,7 +2,7 @@
 
 **Authors:** Group 38  - Binbin Chen, Jingqi Yao, Yuan Zhang
 
-**Final Report:**
+**Final Report:** CS581_NST_FinalReport_Group38.pdf
 
 **Video Demo:** https://drive.google.com/drive/folders/1ooBUJVS92jDuYri2bFwRnWsB0zl2wPgN?usp=sharing
 - short version within 3 minutes: demo-short.mov
